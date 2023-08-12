@@ -1,0 +1,55 @@
+﻿  Character.cpp
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(96,53): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(106,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(142,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(146,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(178,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(209,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(265,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(295,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(333,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(348,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(389,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Character.cpp(394,42): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Game.cpp
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Game.cpp(130,19): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Game.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Game.cpp(189,29): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Game.cpp(215,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Game.cpp(237,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Game.cpp(240,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Mirage.cpp
+  Panel.cpp
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Panel.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Panel.cpp(25,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Platform.cpp
+  ProjectGoFast.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 395 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ProjectGoFast.vcxproj -> C:\Users\Shane\Documents\Coding Ish\Experiments\Originals\ProjectGoFast\Release\ProjectGoFast.exe
